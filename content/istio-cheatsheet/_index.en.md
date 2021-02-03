@@ -11,3 +11,7 @@ featured: true
 featureOrder: 3
 altLink: "/istio-cheatsheet/cheatsheet/"
 ---
+
+<head>
+<meta http-equiv="refresh" content="0; url=/istio-cheatsheet/cheatsheet" />
+</head>
